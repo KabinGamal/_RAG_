@@ -1,0 +1,172 @@
+Machine Learning (ML) is a branch of Artificial Intelligence that enables computers to learn from data without being explicitly programmed.
+
+Instead of writing rules manually, machine learning algorithms identify patterns in data and make predictions based on those patterns.
+
+The three main categories of machine learning are:
+
+1. Supervised Learning
+2. Unsupervised Learning
+3. Reinforcement Learning
+
+=========================================
+SUPERVISED LEARNING
+=========================================
+
+Supervised learning uses labeled data to train a model. Each training example contains both input features and the correct output.
+
+Examples include:
+- House price prediction
+- Student exam score prediction
+- Spam email detection
+- Disease prediction
+
+Common supervised learning algorithms:
+- Linear Regression
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- Support Vector Machine (SVM)
+- K-Nearest Neighbors (KNN)
+- Naive Bayes
+
+Regression predicts continuous values.
+
+Example:
+Predicting the price of a house.
+
+Classification predicts categories.
+
+Example:
+Predicting whether an email is spam or not.
+
+=========================================
+UNSUPERVISED LEARNING
+=========================================
+
+Unsupervised learning works with unlabeled data. The algorithm tries to discover hidden patterns or relationships.
+
+Common tasks include:
+- Customer segmentation
+- Market basket analysis
+- Anomaly detection
+
+Popular algorithms:
+- K-Means Clustering
+- Hierarchical Clustering
+- DBSCAN
+- Principal Component Analysis (PCA)
+
+=========================================
+REINFORCEMENT LEARNING
+=========================================
+
+Reinforcement learning trains an agent by rewarding good actions and penalizing bad actions.
+
+Important concepts:
+- Agent
+- Environment
+- State
+- Action
+- Reward
+- Policy
+
+Applications include:
+- Robotics
+- Game playing
+- Self-driving cars
+
+=========================================
+MACHINE LEARNING WORKFLOW
+=========================================
+
+A typical machine learning project follows these steps:
+
+1. Collect Data
+2. Clean Data
+3. Explore Data
+4. Feature Engineering
+5. Split Dataset
+6. Train Model
+7. Evaluate Model
+8. Tune Hyperparameters
+9. Deploy Model
+10. Monitor Performance
+
+=========================================
+POPULAR PYTHON LIBRARIES FOR ML
+=========================================
+
+NumPy:
+Provides fast numerical computing using arrays.
+
+Pandas:
+Used for data manipulation and analysis with DataFrames.
+
+Matplotlib:
+Creates visualizations such as line charts, bar charts, and scatter plots.
+
+Scikit-learn:
+Provides machine learning algorithms, preprocessing tools, model evaluation, and datasets.
+
+TensorFlow:
+A deep learning framework developed by Google.
+
+PyTorch:
+A popular deep learning library widely used in research and production.
+
+=========================================
+MODEL EVALUATION METRICS
+=========================================
+
+Regression Metrics:
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
+- R² Score
+
+Classification Metrics:
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- ROC-AUC
+
+=========================================
+OVERFITTING AND UNDERFITTING
+=========================================
+
+Overfitting occurs when a model memorizes the training data and performs poorly on unseen data.
+
+Underfitting occurs when a model is too simple and fails to capture important patterns.
+
+Common solutions include:
+- More training data
+- Cross-validation
+- Regularization
+- Simpler or more complex models
+- Feature selection
+
+=========================================
+FEATURE ENGINEERING
+=========================================
+
+Feature engineering is the process of transforming raw data into meaningful features.
+
+Examples include:
+- Encoding categorical variables
+- Handling missing values
+- Feature scaling
+- Creating interaction features
+- Date and time extraction
+
+=========================================
+TRAIN-TEST SPLIT
+=========================================
+
+The dataset is typically divided into:
+- Training Set (80%)
+- Testing Set (20%)
+
+The training set is used to train the model.
+
+The testing set evaluates how well the model performs on unseen data.
