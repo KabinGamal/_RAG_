@@ -38,7 +38,6 @@ RAG/
 ├── pyproject.toml
 └── uv.lock
 ```
-
 ---
 
 ## 📖 Learning Roadmap
