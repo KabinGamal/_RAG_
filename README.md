@@ -3,7 +3,6 @@
 Welcome to my **Retrieval-Augmented Generation (RAG) Learning Journey** repository.
 
 This repository serves as my personal notebook for learning, experimenting, and implementing different concepts of **RAG (Retrieval-Augmented Generation)**. My goal is to build a strong foundation in RAG systems before developing production-level AI applications in the future.
-
 ---
 
 ##  About This Repository
