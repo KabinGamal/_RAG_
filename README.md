@@ -44,9 +44,9 @@ RAG/
 - [x] Project Structure
 - [x] Data Parsing
 - [x] Document Loaders
-- [ ] Text Chunking
-- [ ] Embeddings
-- [ ] Vector Databases (FAISS, ChromaDB)
+- [x] Text Chunking
+- [x] Embeddings
+- [x] Vector Databases (FAISS, ChromaDB)
 - [ ] Similarity Search
 - [ ] Retriever
 - [ ] Prompt Engineering
