@@ -68,7 +68,6 @@ RAG/
 - OpenAI / Local LLMs
 - NumPy
 - Pandas
-
 ---
 
 ##  Goal
