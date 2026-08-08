@@ -4,7 +4,6 @@ Welcome to my **Retrieval-Augmented Generation (RAG) Learning Journey** reposito
 
 This repository serves as my personal notebook for learning, experimenting, and implementing different concepts of **RAG (Retrieval-Augmented Generation)**. My goal is to build a strong foundation in RAG systems before developing production-level AI applications in the future.
 ##  About This Repository
-
 This repository contains:
 
 -  Learning notes
@@ -38,16 +37,18 @@ RAG/
 ```
 ---
 
+
+
 ## 📖 Learning Roadmap
 
 - [x] Introduction to RAG
 - [x] Project Structure
 - [x] Data Parsing
 - [x] Document Loaders
-- [ ] Text Chunking
-- [ ] Embeddings
-- [ ] Vector Databases (FAISS, ChromaDB)
-- [ ] Similarity Search
+- [x] Text Chunking
+- [x] Embeddings
+- [x] Vector Databases (FAISS, ChromaDB)
+- [x] Similarity Search
 - [ ] Retriever
 - [ ] Prompt Engineering
 - [ ] LLM Integration
@@ -69,7 +70,6 @@ RAG/
 - OpenAI / Local LLMs
 - NumPy
 - Pandas
-
 ---
 
 ##  Goal
