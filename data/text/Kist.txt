@@ -1,0 +1,770 @@
+KIST COLLEGE & SS, KATHMANDU — BACHELOR-LEVEL KNOWLEDGE BASE
+Prepared for RAG / Data Science Practice
+Information checked against KIST College official web pages available in August 2026.
+
+IMPORTANT DATA-QUALITY NOTE
+This document is designed as a reliable retrieval corpus, not as an admission contract.
+KIST publishes current programmes and prospectuses, but the exact 2026 rupee-by-rupee fee tables were not exposed in the publicly indexed text pages I could verify. Therefore, no unsupported fee amounts have been invented here. The fee section explicitly separates VERIFIED information from information that must be obtained from the current KIST fee sheet/admission office. This is important for RAG evaluation: the system should answer "not publicly verified" rather than hallucinating a fee.
+
+============================================================
+1. BASIC INSTITUTIONAL INFORMATION
+============================================================
+
+Official name:
+Kathmandu Institute of Science and Technology (KIST)
+
+Common name:
+KIST College / KIST College & SS
+
+Location:
+Kamalpokhari, Kathmandu, Nepal
+Near Kamalpokhari / City Center Mall area.
+
+Established:
+1995
+
+Current principal:
+Dibya Bajracharya
+
+Official contact numbers:
++977-01-4534990
++977-01-4534178
+
+Postal address:
+PO Box 20828, Kathmandu, Nepal
+
+Official website:
+https://www.kist.edu.np/
+
+Official programme page:
+https://kist.edu.np/programmes
+
+Official admissions page:
+https://kist.edu.np/admissions
+
+Official prospectus/download page:
+https://kist.edu.np/downloads/type/Prospectus
+
+Institutional positioning:
+KIST describes its educational approach around academic achievement, professional preparation, intellectual development, seriousness, goal orientation, and holistic student development. The college states that it serves more than 1,600 students annually and has alumni worldwide.
+
+============================================================
+2. HISTORY AND ESTABLISHMENT
+============================================================
+
+KIST was established in 1995. The institution describes itself as having more than three decades of educational legacy by 2026.
+
+KIST has developed from an institution offering school/+2-level education into an institution covering +2, Bachelor's and Master's education.
+
+Current education levels include:
+- +2 Science
+- +2 Management
+- Bachelor's programmes
+- Master's programmes
+
+The college describes its campus as being centrally located at Kamalpokhari in Kathmandu.
+
+============================================================
+3. CURRENT PRINCIPAL
+============================================================
+
+Principal:
+Dibya Bajracharya
+
+The current KIST "Message from Principal" page identifies Dibya Bajracharya as Principal.
+
+The principal's message emphasizes:
+- Academic achievement
+- Student curiosity
+- Professional development
+- Leadership and innovation
+- A supportive academic community
+- Continuity from +2 through Bachelor's and Master's education
+
+Official principal message:
+https://kist.edu.np/index.php/message-from-principal
+
+============================================================
+4. CURRENT PROGRAMMES
+============================================================
+
+KIST's current programme list includes:
+
++2 LEVEL
+1. +2 Science
+2. +2 Management
+
+BACHELOR'S LEVEL
+3. Bachelor of Business Administration (BBA)
+4. Bachelor of Information Technology Management (BITM)
+5. Bachelor of Information Technology (BIT)
+6. Bachelor of Business Studies (BBS)
+7. BSc Microbiology
+
+MASTER'S LEVEL
+8. Master of Information Technology (MIT)
+9. Master of Business Studies (MBS)
+10. MSc Microbiology
+
+NOTE:
+This knowledge base focuses especially on Bachelor's-level education because the intended users are Bachelor students.
+
+============================================================
+5. UNIVERSITY / ACADEMIC AFFILIATION
+============================================================
+
+According to KIST's official programme/admission information:
+
+Tribhuvan University (TU) affiliated programmes:
+- BBA
+- BITM (also referred to as BIM on some older KIST pages/materials)
+- BBS
+- BSc Microbiology
+- MBS
+- MSc Microbiology
+
+Purbanchal University (PU) affiliated programmes:
+- BIT
+- MIT
+
++2 programmes:
+- Affiliated with the National Examinations Board (NEB)
+
+IMPORTANT:
+Older KIST documents use "BIM" (Bachelor of Information Management), while the current website uses "BITM" (Bachelor of Information Technology Management). When building a RAG system, treat BIM and BITM as historical/current naming variants only when the source context supports that interpretation.
+
+============================================================
+6. BACHELOR OF BUSINESS ADMINISTRATION (BBA)
+============================================================
+
+Full name:
+Bachelor of Business Administration
+
+Duration:
+4 years / 8 semesters
+
+Affiliation:
+Tribhuvan University (TU)
+
+Core purpose:
+BBA provides fundamental education in business and management and allows students to develop knowledge in areas such as business economics, administration, finance, human resources, and accounting.
+
+Major knowledge areas:
+- Business economics
+- Business administration
+- Finance
+- Human resource management
+- Accounting
+- Entrepreneurship
+- Management
+- Business decision making
+
+Career areas:
+- Banking
+- Finance
+- Insurance
+- Corporate management
+- Marketing
+- Sales
+- Human resources
+- Operations
+- Government and public sector
+- NGOs / INGOs
+- Hospitality and tourism
+- Entrepreneurship
+- Stock market / securities
+
+KIST also states that its BBA programme includes practical management training and supports placement, entrepreneurship, industry interaction and research/development activities.
+
+Admission:
+BBA applicants generally need:
+- Minimum D in theory and C in practical in each Grade 11/12 subject with CGPA 1.8 or above; OR
+- Minimum second division in 10+2, PCL or equivalent in any discipline.
+- CMAT is required for the admission process.
+- KIST admission form and personal interview are also part of the process.
+
+Official BBA page:
+https://kist.edu.np/index.php/program/bba
+
+============================================================
+7. BACHELOR OF INFORMATION TECHNOLOGY MANAGEMENT (BITM)
+============================================================
+
+Full name:
+Bachelor of Information Technology Management
+
+Historical/alternate name:
+Bachelor of Information Management (BIM) appears in older KIST material.
+
+Duration:
+4 years
+
+Affiliation:
+Tribhuvan University (TU)
+
+Core purpose:
+BITM combines Information Technology and Management.
+
+Major knowledge areas:
+- Information technology
+- Management
+- Information systems
+- Business analysis
+- Technology management
+- Database-related work
+- Networking
+- Software applications
+- Information management
+- Emerging technologies
+- Artificial intelligence concepts
+- Business operations
+
+The programme is designed to help students understand both the needs of business users and the technical professionals who develop information systems.
+
+Career areas mentioned by KIST include:
+- IT management
+- Software engineering
+- Database administration
+- Software project management
+- Knowledge engineering
+- Networking
+- Information systems
+- Information technology
+- Artificial intelligence
+- Business analysis
+
+Admission:
+- Minimum D in theory and C in practical in each subject with CGPA 1.8 or above; OR
+- Minimum second division in 10+2, PCL or equivalent in any discipline.
+- CMAT is part of the admission process.
+- KIST admission form and personal interview follow.
+
+Official BITM page:
+https://kist.edu.np/index.php/program/bim
+
+============================================================
+8. BACHELOR OF INFORMATION TECHNOLOGY (BIT)
+============================================================
+
+Full name:
+Bachelor of Information Technology
+
+Duration:
+4 years / 8 semesters
+
+Affiliation:
+Purbanchal University (PU)
+
+Core purpose:
+BIT develops professional IT knowledge and skills in software, hardware, networking, data structures, computer architecture and information systems.
+
+Major knowledge areas:
+- Programming
+- Software development
+- Hardware concepts
+- Networking
+- Data structures
+- Computer architecture
+- Web development
+- Database development
+- System modelling
+- Computer security
+- Mobile applications
+- Desktop applications
+- Information systems
+
+Career areas:
+- Software development
+- Web development
+- Mobile development
+- Database administration
+- Network administration
+- Information security
+- Systems analysis
+- IT support
+- IT project work
+- Entrepreneurship
+
+KIST highlights:
+- Network labs
+- Multimedia resources
+- E-library
+- Project work
+- Workshops
+- Guest lectures
+- Industry tie-ups
+- Placement support
+- Entrepreneurship Cell
+- Research and Development Unit
+
+Admission eligibility listed by KIST:
+- +2/equivalent with minimum D in each subject and aggregate GPA 2.0, OR
+- At least 45% in Intermediate with Mathematics/Computer Science of 100 marks, OR
+- 3-year diploma in any stream
+- A-Level applicants need at least E in each subject or aggregate 45%.
+- University entrance examination is mandatory.
+- KIST admission form and personal interview follow successful entrance performance.
+
+Official BIT page:
+https://www.kist.edu.np/index.php/program/bit
+
+============================================================
+9. BACHELOR OF BUSINESS STUDIES (BBS)
+============================================================
+
+Full name:
+Bachelor of Business Studies
+
+Duration:
+4 years
+
+Affiliation:
+Tribhuvan University (TU)
+
+Core purpose:
+BBS combines management concepts with practical, reality-based skills and current business-environment knowledge.
+
+Major knowledge areas:
+- Accounting
+- Finance
+- Human resource management
+- Marketing
+- Economics
+- Statistics
+- Business law
+- Management
+- Business environment
+- Entrepreneurship
+
+KIST describes BBS as preparing graduates for management and leadership roles and for the interdisciplinary knowledge economy.
+
+Admission:
+- Minimum D+ grade in each Grade 11/12 subject OR
+- Minimum second division in +2/equivalent.
+- BBS admission uses a KIST entrance test rather than the same university entrance route used for BBA/BITM/BIT.
+
+Official BBS page:
+https://kist.edu.np/program/bachelor-of-business-studies
+
+============================================================
+10. BSC MICROBIOLOGY
+============================================================
+
+Full name:
+Bachelor of Science in Microbiology
+
+Duration:
+4 years
+
+Affiliation:
+Tribhuvan University (TU)
+
+Core purpose:
+BSc Microbiology is an interdisciplinary science programme focused on microorganisms and their applications in health, environment, food, agriculture, industry, research and technology.
+
+Major knowledge areas include:
+- Microbiology
+- Cell biology
+- Microbial genetics
+- Molecular biology
+- Immunology
+- Biotechnology
+- Biochemistry
+- Environmental microbiology
+- Food microbiology
+- Medical microbiology
+- Laboratory methods
+- Research
+
+Career areas:
+- Medical and clinical laboratories
+- Hospitals
+- Pharmaceutical companies
+- Food and beverage industries
+- Quality control
+- Public health
+- Environmental microbiology
+- Agriculture
+- Research and development
+- NGOs / INGOs
+- Teaching
+- Laboratory entrepreneurship
+- Further study and research
+
+Admission:
+KIST states that applicants should have completed +2 Science/ISC or equivalent with the required science subjects. The current admission information specifies Biology requirements and minimum grades. Entrance examination and merit-based admission apply.
+
+KIST highlights:
+- Well-equipped laboratories
+- Research opportunities
+- Project work
+- Field research
+- Tutorials
+- Pre-exam preparation
+- Library
+- Science and technology activities
+
+Official BSc Microbiology page:
+https://kist.edu.np/index.php/program/bsc-microbiology
+
+============================================================
+11. ADMISSION PROCESS — BACHELOR LEVEL
+============================================================
+
+General admission flow:
+
+Step 1:
+Check programme-specific eligibility.
+
+Step 2:
+Complete the relevant university/college entrance application where required.
+
+Step 3:
+Take the required entrance examination:
+- BBA: CMAT
+- BITM/BIM: CMAT
+- BIT: University entrance examination
+- BSc Microbiology: University entrance examination
+- BBS: KIST entrance test
+
+Step 4:
+Complete the KIST admission form.
+
+Step 5:
+Attend personal interview where required.
+
+Step 6:
+Receive offer/acceptance information.
+
+Step 7:
+Submit required original certificates/testimonials.
+
+Step 8:
+Pay the applicable fees.
+
+Step 9:
+Complete enrolment.
+
+Official admissions page:
+https://kist.edu.np/admissions
+
+============================================================
+12. REQUIRED DOCUMENTS / ADMISSION PAPERWORK
+============================================================
+
+Depending on programme and admission stage, KIST commonly asks for documents such as:
+- Citizenship certificate
+- SEE/equivalent mark sheet
+- +2/equivalent transcript
+- Character certificate
+- Migration certificate
+- Entrance-related documents
+- Photographs
+- Original certificates/testimonials for verification
+
+Students should verify the exact document list for their intake before submission.
+
+============================================================
+13. FEE STRUCTURE — IMPORTANT DATA QUALITY SECTION
+============================================================
+
+CURRENT VERIFIED STATUS:
+
+KIST's official programme pages confirm that students must pay the applicable fee according to the college's fee structure. However, the exact current 2026 Bachelor fee table with every rupee amount was not exposed in the publicly indexed text that could be independently verified while preparing this knowledge base.
+
+Therefore, DO NOT use invented numbers for:
+- Admission fee
+- Tuition fee
+- Semester fee
+- Annual fee
+- University registration fee
+- Examination fee
+- Library fee
+- Laboratory fee
+- Sports/CCA fee
+- ID card fee
+- Security/deposit
+- Transportation fee
+- Uniform/dress fee
+- Project fee
+- Internship fee
+- Graduation fee
+- Other administrative charges
+
+This is intentional. A RAG application should retrieve the official 2026 fee sheet/prospectus before answering exact fee questions.
+
+KNOWN FEE-RELATED INFORMATION FROM KIST:
+
+1. Enrolment is confirmed subject to payment of applicable fees.
+
+2. BSc Microbiology:
+KIST explicitly tells applicants to refer to the Fee Structure provided by the college.
+
+3. Transportation:
+Bachelor students generally do not have dedicated transportation automatically included. KIST states that students may use available bus routes if timing can be adjusted, and transportation fee applies.
+
+4. Dress code:
+KIST states that Bachelor's students have a formal dress code and tailored dresses are provided by the college on payment.
+
+5. Entrance fees:
+For university entrance examinations, applicants may have to pay the fee/charge specified by the relevant university.
+
+6. Examination fees:
+University examination/form fees may be separate from college tuition. The exact current amount must be verified from the university/college notice.
+
+7. Scholarships:
+KIST provides Bachelor's scholarships based on applicable university guidelines, entrance performance, +2 performance and other merit/performance criteria. Scholarship availability and amount may depend on the current policy and seat availability.
+
+OFFICIAL SOURCE FOR CURRENT FEE VERIFICATION:
+KIST prospectus/download page:
+https://kist.edu.np/downloads/type/Prospectus
+
+The page currently lists:
+- Bachelor's & Master's Prospectus 2026
+- BIT & MIT Prospectus 2026
+- Bachelor's & Master's Prospectus 2025
+- Bachelor's & Master's Prospectus 2024
+and older prospectuses.
+
+For a real admission decision, always obtain the current official fee sheet directly from KIST.
+
+============================================================
+14. SCHOLARSHIPS
+============================================================
+
+KIST states that Bachelor's scholarships are available to recognize academic excellence.
+
+Scholarship-related categories include:
+- University scholarships
+- Scholarships based on +2 GPA/marks
+- Entrance examination performance
+- Board examination performance
+- Term examination performance
+- College policy-based merit awards
+
+Important:
+Scholarship amounts, eligibility thresholds and available seats can change by intake/year. Do not treat an old scholarship table as the current 2026 policy unless it is verified.
+
+============================================================
+15. ACADEMIC ENVIRONMENT
+============================================================
+
+KIST's published academic information describes:
+- Regular classes
+- Tutorials
+- Practical classes
+- Demonstrations
+- Internal examinations
+- University examinations
+- Class tests
+- Practice tests
+- Sample tests
+- Snap tests
+- Corrective tests
+- Academic counseling
+- Career counseling
+- Assignments
+- Project work
+- Research activities
+
+The college emphasizes both theoretical and practical learning.
+
+============================================================
+16. FACILITIES AND STUDENT DEVELOPMENT
+============================================================
+
+Published KIST information mentions:
+- Library
+- E-library/resources
+- Computer and IT labs
+- Network lab
+- Digital logic lab
+- Science laboratories
+- Spacious classrooms
+- Seminar halls
+- Cafeteria
+- Sports facilities
+- Basketball
+- Badminton
+- Table tennis
+- Cricket/football activities
+- Clubs and societies
+- Research and Development Unit
+- Placement support
+- Entrepreneurship Cell
+- Career counseling
+
+============================================================
+17. STUDENT CLUBS AND ACTIVITIES
+============================================================
+
+KIST's student handbook lists activities/clubs including:
+
+- KIST Students' Club
+- KIST Sci-&-Tech Club
+- Computer & IT Society
+- Sports Club
+- Creative & Performing Arts Society
+- Literary Club
+- Youth Red Cross Circle
+- KIST Alumni Association
+- KIST Social Service Club
+
+These activities support:
+- Leadership
+- Communication
+- Teamwork
+- Creativity
+- Technical skills
+- Social responsibility
+- Physical fitness
+- Networking
+
+============================================================
+18. DATA SCIENCE / AI RELEVANCE FOR KIST STUDENTS
+============================================================
+
+For a student interested in Data Science or AI:
+
+Most directly relevant KIST Bachelor's backgrounds:
+1. BIT
+2. BITM/BIM
+3. BBA with quantitative/technology electives or self-study
+4. BBS with strong quantitative and programming self-study
+
+Skills a student should build beyond the college curriculum:
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- SQL
+- Statistics
+- Probability
+- Linear algebra
+- Machine learning
+- Scikit-learn
+- Data visualization
+- Git and GitHub
+- Excel
+- Power BI/Tableau
+- APIs
+- Cloud fundamentals
+- RAG / LLM fundamentals
+- Communication and presentation
+- Problem solving
+
+A KIST degree alone should not be treated as sufficient preparation for a Data Scientist role. Portfolio projects, internships, mathematics/statistics, programming, SQL, machine learning and practical experience are important.
+
+============================================================
+19. RAG DATASET DESIGN NOTES
+============================================================
+
+This file is intentionally structured for Retrieval-Augmented Generation.
+
+Recommended metadata if chunking this file:
+
+institution = "KIST College"
+location = "Kamalpokhari, Kathmandu, Nepal"
+education_level = "Bachelor"
+source_type = "official_website"
+verification_date = "2026-08-08"
+
+Suggested document categories:
+- institutional_history
+- principal
+- programmes
+- affiliation
+- BBA
+- BITM
+- BIT
+- BBS
+- BSc_Microbiology
+- admission
+- eligibility
+- fees
+- scholarships
+- facilities
+- student_life
+- career
+- data_science_relevance
+
+Suggested RAG questions:
+1. When was KIST established?
+2. Who is the current principal of KIST?
+3. Where is KIST College located?
+4. Which Bachelor's programmes are offered?
+5. Which KIST programmes are affiliated with Tribhuvan University?
+6. Which programmes are affiliated with Purbanchal University?
+7. What is the duration of BIT?
+8. What is the difference between BIT and BITM?
+9. What is the eligibility for BBA?
+10. What entrance examination is required for BBA?
+11. What entrance examination is required for BITM?
+12. What entrance examination is required for BIT?
+13. What is the BBS admission process?
+14. What are the career opportunities after BSc Microbiology?
+15. Does KIST offer scholarships?
+16. Does the Bachelor's fee include transportation?
+17. What is the exact 2026 fee for BIT?
+18. What is the exact 2026 fee for BBA?
+
+For questions 17 and 18, a correct RAG system should NOT invent an amount if the retrieved source does not contain the current official fee table.
+
+============================================================
+20. OFFICIAL SOURCES
+============================================================
+
+KIST official home:
+https://kist.edu.np/
+
+KIST introduction:
+https://www.kist.edu.np/index.php/introduction
+
+Principal:
+https://kist.edu.np/index.php/message-from-principal
+
+Programmes:
+https://www.kist.edu.np/programmes
+
+Admissions:
+https://kist.edu.np/admissions
+
+Prospectus:
+https://kist.edu.np/downloads/type/Prospectus
+
+BBA:
+https://kist.edu.np/index.php/program/bba
+
+BITM:
+https://kist.edu.np/index.php/program/bim
+
+BIT:
+https://www.kist.edu.np/index.php/program/bit
+
+BBS:
+https://kist.edu.np/program/bachelor-of-business-studies
+
+BSc Microbiology:
+https://kist.edu.np/index.php/program/bsc-microbiology
+
+============================================================
+21. SOURCE AND VERSION WARNING
+============================================================
+
+This knowledge base was prepared on 2026-08-08 using KIST's publicly available official website pages and official downloadable-document listings.
+
+The institution can change:
+- Fees
+- Scholarships
+- Admission rules
+- Entrance requirements
+- Course structures
+- Programme names
+- Affiliations
+- Timings
+- Policies
+
+Therefore:
+"Current official KIST information for the relevant admission year" should always have priority over this static text file.
+
+END OF KNOWLEDGE BASE
